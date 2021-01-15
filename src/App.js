@@ -1,8 +1,8 @@
+import Book from "./book";
 export default () => {
-
   return (
-      <div>
-          Hello World!
-      </div>
+    <div>
+      <h1>Viatge a la lluna</h1>
+    </div>
   );
 };
